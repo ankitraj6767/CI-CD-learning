@@ -27,10 +27,7 @@ Track your progress through the comprehensive CI/CD learning journey!
   - [ ] Practice with multiple languages
   
 - [ ] **Module 4**: [Testing Fundamentals](./01-fundamentals/04-testing-basics.md)
-  - [ ] Learn testing strategies
-  - [ ] Implement automated testing
-  - [ ] Understand test pyramid
-
+  - [ ] ¸
 ## Phase 2: Basic Implementation (0/4 Complete)
 
 - [ ] **Module 5**: [GitHub Actions Basics](./02-basic-implementation/01-github-actions.md)
